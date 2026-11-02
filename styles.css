@@ -78,7 +78,7 @@ section.block .sub { color: var(--ink-soft); max-width: 62ch; margin: 0 0 26px; 
 .card h3 { margin: 0 0 8px; font-size: 19px; }
 .card p { margin: 0 0 8px; color: var(--ink-soft); font-size: 15px; }
 .card .tag {
-  display: inline-block; font-family: var(--mono); font-size: 11px; letter-spacing: 0.08em;
+  display: inline-block; font-family: var(--mono); font-size: 12px; letter-spacing: 0.08em;
   text-transform: uppercase; background: var(--accent-wash); color: var(--accent);
   padding: 3px 8px; border-radius: 4px; margin-bottom: 10px;
 }
